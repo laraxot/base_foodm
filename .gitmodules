@@ -1,18 +1,30 @@
-[submodule "Modules/Extend"]
-	path = Modules/Extend
-	url = https://github.com/laraxot/module_extend.git
-[submodule "Modules/Blog"]
-	path = Modules/Blog
-	url = https://github.com/laraxot/module_blog.git
 [submodule "Modules/Backend"]
 	path = Modules/Backend
 	url = https://github.com/laraxot/module_backend.git
+[submodule "Modules/Blog"]
+	path = Modules/Blog
+	url = https://github.com/laraxot/module_blog.git
+[submodule "Modules/Extend"]
+	path = Modules/Extend
+	url = https://github.com/laraxot/module_extend.git
+[submodule "Modules/FormX"]
+	path = Modules/FormX
+	url = https://github.com/laraxot/module_formx.git
+[submodule "Modules/Geo"]
+	path = Modules/Geo
+	url = https://github.com/laraxot/module_geo.git
 [submodule "Modules/LU"]
 	path = Modules/LU
 	url = https://github.com/laraxot/module_lu.git
 [submodule "Modules/Settings"]
 	path = Modules/Settings
 	url = https://github.com/laraxot/module_settings.git
+[submodule "Modules/Theme"]
+	path = Modules/Theme
+	url = https://github.com/laraxot/module_theme.git
+[submodule "Modules/Xot"]
+	path = Modules/Xot
+	url = https://github.com/laraxot/module_xot.git
 [submodule "Modules/Food"]
 	path = Modules/Food
 	url = https://github.com/laraxot/module_food.git
@@ -28,15 +40,4 @@
 [submodule "public/themes/sb-admin-2-bs4"]
 	path = public/themes/sb-admin-2-bs4
 	url = https://github.com/laraxot/theme_sb-admin-2-bs4.git
-[submodule "Modules/Geo"]
-	path = Modules/Geo
-	url = https://github.com/laraxot/module_geo.git
-[submodule "Modules/Theme"]
-	path = Modules/Theme
-	url = https://github.com/laraxot/module_theme.git
-[submodule "Modules/Xot"]
-	path = Modules/Xot
-	url = https://github.com/laraxot/module_xot.git
-[submodule "Modules/FormX"]
-	path = Modules/FormX
-	url = https://github.com/laraxot/module_formx.git
+
