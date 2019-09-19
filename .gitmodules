@@ -4,9 +4,6 @@
 [submodule "Modules/Blog"]
 	path = Modules/Blog
 	url = https://github.com/laraxot/module_blog.git
-[submodule "Modules/Extend"]
-	path = Modules/Extend
-	url = https://github.com/laraxot/module_extend.git
 [submodule "Modules/FormX"]
 	path = Modules/FormX
 	url = https://github.com/laraxot/module_formx.git
