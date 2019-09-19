@@ -28,9 +28,6 @@
 [submodule "public/themes/gbfood"]
 	path = public/themes/gbfood
 	url = https://github.com/laraxot/theme_gbfood.git
-[submodule "Modules/Frontend"]
-	path = Modules/Frontend
-	url = https://github.com/laraxot/module_frontend.git
 [submodule "public/noconsole"]
 	path = public/noconsole
 	url = https://github.com/laraxot/noconsole.git
