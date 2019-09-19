@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Authentication Defaults
@@ -102,5 +101,4 @@ return [
             'connection' => 'liveuser_general',
         ],
     ],
-
 ];

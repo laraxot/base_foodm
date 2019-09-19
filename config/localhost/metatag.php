@@ -1,8 +1,9 @@
 <?php
+
 return [
-    'title'=>'Food Friend Finder',
-    'sitename'=>'foodfriendfinder',
-    'subtitle'=>'Find restaurants, specials, and coupons for free',
+    'title' => 'Food Friend Finder',
+    'sitename' => 'foodfriendfinder',
+    'subtitle' => 'Find restaurants, specials, and coupons for free',
     'sottotitolo_comune' => '',
     'generator' => '',
     'charset' => 'UTF-8',
@@ -16,7 +17,7 @@ return [
     'logo_footer_img' => '/theme/pub/images/food-picky-logo.png',
     'logo_alt' => 'Logo',
     'hide_megamenu' => false,
-    'hero_type' =>    'with_megamenu_bottom',
+    'hero_type' => 'with_megamenu_bottom',
     'facebook_href' => 'aa',
     'twitter_href' => '',
     'youtube_href' => '',

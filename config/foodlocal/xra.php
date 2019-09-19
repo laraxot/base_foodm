@@ -25,9 +25,7 @@ $def = [
         //------------- FOOD ----------------------------------------
 
         'restaurant' => 'Modules\Food\Models\Restaurant',
-        //'restaurant_owner' => \Modules\Food\Models\RestaurantOwner::class,
-        //'restaurant_owner' => \Modules\Food\Models\Profile::class,
-        //'bell_boy' => \Modules\Food\Models\BellBoy::class,
+        'restaurant_owner' => 'Modules\Food\Models\RestaurantOwner',
         'recipe' => 'Modules\Food\Models\Recipe',
         'cuisine' => 'Modules\Food\Models\Cuisine',
         'cuisine_cat' => 'Modules\Food\Models\CuisineCat',
@@ -39,15 +37,17 @@ $def = [
         'cart_item' => \Modules\Food\Models\CartItem::class, //wip
         'cart' => \Modules\Food\Models\Cart::class, //wip
         'opening_hour' => \Modules\Food\Models\OpeningHour::class,
-        'map' =>          		\Modules\Food\Models\RestaurantMap::class,
-        //'restaurant_map' => \Modules\Food\Models\RestaurantMap::class,
+        //'map' =>          		\Modules\Food\Models\Map::class,
+        'restaurant_map' => \Modules\Food\Models\RestaurantMap::class,
         //'contact'			=>     	\Modules\Food\Models\Contact::class,
+        'bell_boy' => \Modules\Food\Models\BellBoy::class,
     ],
     'roots' => [
         'restaurant',
         'profile',
         'location',
         'page',
+        'article',
         //'cuisineCat',
     ],
     'migrate_packs' => [

@@ -1,3 +1,5 @@
+git config --global submodule.recurse true
+git config --global core.fileMode false
 git branch --set-upstream-to=origin/master master
 git submodule foreach git branch --set-upstream-to=origin/master master
 git push --set-upstream origin master
