@@ -32,9 +32,6 @@
 [submodule "resources/views/themes/gbfood"]
 	path = resources/views/themes/gbfood
 	url = https://github.com/laraxot/theme_gbfood.git
-[submodule "resources/views/themes/italia10"]
-	path = resources/views/themes/italia10
-	url = https://bitbucket.org/team_foodx/theme_italia10.git
 [submodule "resources/views/themes/sb-admin-2-bs4"]
 	path = resources/views/themes/sb-admin-2-bs4
 	url = https://github.com/laraxot/theme_sb-admin-2-bs4.git
