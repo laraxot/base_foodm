@@ -25,17 +25,18 @@
 [submodule "public/noconsole"]
 	path = public/noconsole
 	url = https://github.com/laraxot/noconsole.git
-[submodule "laravel/resources/views/themes/coderdocs"]
-	path = laravel/resources/views/themes/coderdocs
+
+[submodule "resources/views/themes/coderdocs"]
+	path = resources/views/themes/coderdocs
 	url = https://github.com/laraxot/theme_coderdocs.git
-[submodule "laravel/resources/views/themes/gbfood"]
-	path = laravel/resources/views/themes/gbfood
+[submodule "resources/views/themes/gbfood"]
+	path = resources/views/themes/gbfood
 	url = https://github.com/laraxot/theme_gbfood.git
-[submodule "laravel/resources/views/themes/italia10"]
-	path = laravel/resources/views/themes/italia10
+[submodule "resources/views/themes/italia10"]
+	path = resources/views/themes/italia10
 	url = https://bitbucket.org/team_foodx/theme_italia10.git
-[submodule "laravel/resources/views/themes/sb-admin-2-bs4"]
-	path = laravel/resources/views/themes/sb-admin-2-bs4
+[submodule "resources/views/themes/sb-admin-2-bs4"]
+	path = resources/views/themes/sb-admin-2-bs4
 	url = https://github.com/laraxot/theme_sb-admin-2-bs4.git
 
 
