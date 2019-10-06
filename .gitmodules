@@ -1,6 +1,3 @@
-[submodule "Modules/Backend"]
-	path = Modules/Backend
-	url = https://github.com/laraxot/module_backend.git
 [submodule "Modules/Blog"]
 	path = Modules/Blog
 	url = https://github.com/laraxot/module_blog.git
@@ -25,16 +22,20 @@
 [submodule "Modules/Food"]
 	path = Modules/Food
 	url = https://github.com/laraxot/module_food.git
-[submodule "public/themes/gbfood"]
-	path = public/themes/gbfood
-	url = https://github.com/laraxot/theme_gbfood.git
-[submodule "Modules/Frontend"]
-	path = Modules/Frontend
-	url = https://github.com/laraxot/module_frontend.git
 [submodule "public/noconsole"]
 	path = public/noconsole
 	url = https://github.com/laraxot/noconsole.git
-[submodule "public/themes/sb-admin-2-bs4"]
-	path = public/themes/sb-admin-2-bs4
+[submodule "laravel/resources/views/themes/coderdocs"]
+	path = laravel/resources/views/themes/coderdocs
+	url = https://github.com/laraxot/theme_coderdocs.git
+[submodule "laravel/resources/views/themes/gbfood"]
+	path = laravel/resources/views/themes/gbfood
+	url = https://github.com/laraxot/theme_gbfood.git
+[submodule "laravel/resources/views/themes/italia10"]
+	path = laravel/resources/views/themes/italia10
+	url = https://bitbucket.org/team_foodx/theme_italia10.git
+[submodule "laravel/resources/views/themes/sb-admin-2-bs4"]
+	path = laravel/resources/views/themes/sb-admin-2-bs4
 	url = https://github.com/laraxot/theme_sb-admin-2-bs4.git
+
 
